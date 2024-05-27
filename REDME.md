@@ -1,1 +1,0 @@
-It is a multi-user web service with Spring Boot that allows users to log in, create their own quizzes, solve and delete them. Users can also solve quizzes created by other users and to get a list of all available quizzes.
